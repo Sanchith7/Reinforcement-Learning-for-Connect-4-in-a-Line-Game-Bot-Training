@@ -29,7 +29,7 @@ Once the computer has completed its training, you can put your skills to the tes
 Get ready for a challenging game as the AI will employ its newly acquired Connect 4 strategies.
 
 # Result
-<img width="650" alt="image" src="https://github.com/Sanchith7/Reinforcement-Learning-for-Connect-4-in-a-Line-Game-Bot-Training.png">
+<img width="650" alt="image" src="https://github.com/Sanchith7/Reinforcement-Learning-for-Connect-4-in-a-Line-Game-Bot-Training/blob/main/ui.png">
 
 # Contributions and Feedback
 This project is open-source, and we welcome contributions from the community. If you have ideas for improving the AI's performance, adding new features, or fixing issues, please feel free to submit pull requests.
