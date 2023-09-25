@@ -5,12 +5,14 @@ Welcome to the Connect 4 Reinforcement Learning Game Bot project! This project i
 To interact with the game, you can use the following controls:
 
 1)Use the left/right arrow keys to navigate across different columns of the game board.
+
 2)Press Enter to drop a coin into the selected column.
 
 # Running the Code
 To start training the computer to become a Connect 4 master, follow these steps:
 
 1)Go to the main menu of the game. 
+
 2)Select the "Train Computer" option.
 
 During the training process, the computer will play a specified number of games, which you can provide as an argument to the program. The more games it plays, the better it becomes! After the training is complete, you'll have a highly proficient Connect 4 AI ready to challenge players.
@@ -21,6 +23,7 @@ Note: Every time you select the "Train Computer" mode, the training process star
 Once the computer has completed its training, you can put your skills to the test by playing against it:
 
 1)Return to the main menu.
+
 2)Select the "vs Computer" option.
 
 Get ready for a challenging game as the AI will employ its newly acquired Connect 4 strategies.
