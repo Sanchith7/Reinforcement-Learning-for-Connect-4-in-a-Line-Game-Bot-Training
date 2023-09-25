@@ -10,7 +10,7 @@ To interact with the game, you can use the following controls:
 # Running the Code
 To start training the computer to become a Connect 4 master, follow these steps:
 
-1)Go to the main menu of the game.
+1)Go to the main menu of the game. 
 2)Select the "Train Computer" option.
 
 During the training process, the computer will play a specified number of games, which you can provide as an argument to the program. The more games it plays, the better it becomes! After the training is complete, you'll have a highly proficient Connect 4 AI ready to challenge players.
